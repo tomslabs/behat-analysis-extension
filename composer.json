@@ -1,6 +1,6 @@
 {
     "name": "gquemener/behat-analysis-extension",
-    "description": "Analysis tool for Behat",
+    "description": "Analysis tool for Behat 3",
     "license": "MIT",
     "authors": [
         {
